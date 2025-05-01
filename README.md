@@ -1,7 +1,7 @@
 <!-- Enhanced Nightly Cool Themed Profile README.md -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7289DA&center=true&vCenter=true&width=435&lines=Hey!+I'm+%F0%9F%92%A5+%F0%9F%92%A5+Toby+Therman+%F0%9F%92%A5+%F0%9F%92%A5;Distance+Learning+College+Student+%F0%9F%8C%99;Night+Owl+and+Code+Enthusiast+%F0%9F%8C%8F" alt="Nightly Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7289DA&center=true&vCenter=true&width=435&lines=Hey!+I'm+%F0%9F%92%A5+%F0%9F%92%A5+Tianqi+Therman+%F0%9F%92%A5+%F0%9F%92%A5;Distance+Learning+College+Faculty Member+%F0%9F%8C%99;Night+Owl+and+Code+Enthusiast+%F0%9F%8C%8F" alt="Nightly Banner"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/Identity-College%20Student-232946?style=for-the-badge&logo=graduation-cap&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Identity-College%20Faculty Member-232946?style=for-the-badge&logo=graduation-cap&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Mode-Distance%20Learning-393e46?style=for-the-badge&logo=home-assistant&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Time-Night%20Owl-7289DA?style=for-the-badge&logo=owl&logoColor=fff"/>
 </h2>
@@ -20,8 +20,8 @@
 
 ## 🌙 Who Am I?
 
-- **Name:** Toby Therman
-- **Role:** Proud college student, thriving in the world of UIUC.
+- **Name:** Tianqi Therman
+- **Role:** Proud college Faculty Member, thriving in the world of UIUC.
 - **Vibe:** Night owl 🦉, tech explorer, and digital dreamer.
 - **Passion:** Building creative projects, exploring the cosmos, and coding to lo-fi beats.
 
