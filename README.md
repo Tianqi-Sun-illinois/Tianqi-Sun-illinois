@@ -1,7 +1,7 @@
 <!-- Enhanced Nightly Cool Themed Profile README.md -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7289DA&center=true&vCenter=true&width=435&lines=Hey!+I'm+%F0%9F%92%A5+%F0%9F%92%A5+Tianqi+Therman+%F0%9F%92%A5+%F0%9F%92%A5;Distance+Learning+College+Faculty Member+%F0%9F%8C%99;Night+Owl+and+Code+Enthusiast+%F0%9F%8C%8F" alt="Nightly Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7289DA&center=true&vCenter=true&width=435&lines=Hey!+I'm+%F0%9F%92%A5+%F0%9F%92%A5+Tianqi+Sun+%F0%9F%92%A5+%F0%9F%92%A5;Distance+Learning+College+Faculty Member+%F0%9F%8C%99;Night+Owl+and+Code+Enthusiast+%F0%9F%8C%8F" alt="Nightly Banner"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 🌙 Who Am I?
 
-- **Name:** Tianqi Therman
+- **Name:** Tianqi Sun
 - **Role:** Proud college Faculty Member, thriving in the world of UIUC.
 - **Vibe:** Night owl 🦉, tech explorer, and digital dreamer.
 - **Passion:** Building creative projects, exploring the cosmos, and coding to lo-fi beats.
